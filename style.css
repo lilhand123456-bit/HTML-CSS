@@ -1,0 +1,30 @@
+.box{
+    display: inline-block;
+}
+
+#first{
+    width: 100px;
+    height:100px;
+    background-color: darkblue;
+}
+
+#second{
+    width: 150px;
+    height: 150px;
+    background-color: salmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#third{
+    width: 200px;
+    height: 200px;
+    background-color: wheat;
+    display:inline-block;
+}
+
+/*
+Justify-content
+Align-items
+*/
